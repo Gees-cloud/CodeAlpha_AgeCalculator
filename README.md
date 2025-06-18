@@ -1,23 +1,28 @@
-# Age Calculator
+# Age Calculator 🗓
 
-This is a simple web-based Age Calculator built as part of the *CodeAlpha Web Development Internship*.
+This is a simple web-based *Age Calculator* built as part of the CodeAlpha Web Development Internship.
 
-## 🔧 Tech Stack:
+## 🔧 Features
+
+- User inputs Date of Birth
+- Automatically calculates age in:
+  - Years
+  - Months
+  - Days
+- Clean, responsive UI using HTML & CSS
+- Real-time JavaScript calculation using the Date object
+
+## 📸 Screenshot
+![App Screenshot](./images/screenshot.png)
+
+## 🛠 Technologies Used
+
 - HTML
 - CSS
-- JavaScript (Date object & DOM manipulation)
+- JavaScript (Vanilla JS)
 
-## 🧠 Features:
-- Takes user's Date of Birth as input
-- Calculates and displays age in years, months, and days
-- Basic form validation and responsive layout
+## 🚀 Live Demo (Optional)
+Coming soon...
 
-## 📂 Live Preview:
-To use this calculator, download or clone the repo and open index.html in your browser.
+## 📁 Folder Structure
 
-## 🔗 Repository:
-[https://github.com/Gees-cloud/CodeAlpha_AgeCalculator](https://github.com/Gees-cloud/CodeAlpha_AgeCalculator)
-
----
-
-Thanks to CodeAlpha for the hands-on learning experience!
