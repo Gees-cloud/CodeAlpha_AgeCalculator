@@ -25,4 +25,11 @@ This is a simple web-based *Age Calculator* built as part of the CodeAlpha Web D
 Coming soon...
 
 ## 📁 Folder Structure
+age-calculator/
+├── index.html         # Main HTML structure
+├── style.css          # Styling for the web app
+├── script.js          # JavaScript logic for age calculation
+└── README.md          # Project overview and documentation
+
+Each file is kept clean and modular to help with easy maintenance and future feature additions.
 
