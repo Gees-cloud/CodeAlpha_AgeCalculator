@@ -36,16 +36,9 @@ I wanted to build a project that’s not only simple but shows how much you can 
 
 ## 📸 Screenshots
 
-Here’s a quick look at how it works and how the code is structured:
+Screenshots of the app interface and source code files (index.html, style.css, script.js) are included in this repository.
 
-### ✅ Main Interface
-![Age Calculator App](age-calculator.png)
-
-### ✅ JavaScript Logic (script.js)
-![JavaScript File](script-js.png)
-
-### ✅ Styling (style.css)
-![CSS File](style-css.png)
+To view them, click the *Files* tab in the repo and browse through the uploaded images.
 
 ---
 
