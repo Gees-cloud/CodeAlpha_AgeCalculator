@@ -53,7 +53,7 @@ Gloria Ejike
 AWS Certified Solutions Architect Associate
 Frontend & Cloud Development Intern
 GitHub: Gees-cloud
-LinkedIn: ejikegloria
+LinkedIn: https://www.linkedin.com/in/ejike-gloria-045081234
 
 
 ---
