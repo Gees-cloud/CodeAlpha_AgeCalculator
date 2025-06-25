@@ -1,72 +1,98 @@
 # 🧮 Age Calculator Web App
 
-This is a simple and interactive web application that calculates your age based on your selected date of birth.
+A clean and interactive web app that lets users calculate their age based on their date of birth. It’s a practical tool built using HTML, CSS, and JavaScript — designed to be fast, responsive, and beginner-friendly.
 
-It’s beginner-friendly and a great project for practicing *HTML, CSS, and JavaScript* — especially DOM manipulation and working with date/time in JavaScript.
+This was built as part of my frontend internship with *CodeAlpha*, where I was challenged to implement real-world projects using only core web technologies (no frameworks).
 
 ---
 
-## 🌟 What This Project Does
+## 🔍 What This Project Does
 
-- Takes your *date of birth* as input
-- Instantly calculates and displays your *current age*
-- Gives a clean, responsive, and easy-to-use interface
+- Allows the user to input their birthdate
+- Instantly calculates and displays their age in years
+- Runs fully in the browser — no server or database needed
+- Responsive and works on both desktop and mobile
 
 ---
 
 ## 💡 Why I Built This
 
-As part of my web development internship with *CodeAlpha*, I created this project to practice real-world user interaction with date/time input. It helped me improve how I handle logic with JavaScript and design layout with CSS.
+I wanted to build a project that’s not only simple but shows how much you can do with just the web fundamentals. Working on this helped me strengthen my understanding of:
+
+- Working with JavaScript Date objects
+- Handling edge cases like future dates or leap years
+- DOM manipulation and event handling
+- Writing clean, responsive UI using Flexbox
 
 ---
 
-## 🔧 Technologies Used
+## 🛠 Technologies Used
 
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla)
-
----
-
-## 💻 Live Demo (optional)
-
-You can clone this repo and run it locally:
-
-```bash
-git clone https://github.com/Gees-cloud/age-calculator-app.git
-cd age-calculator-app
-open index.html  # or just double-click the file to open in your browser
-
+- *HTML5* – page structure and form elements  
+- *CSS3* – layout, styling, and responsiveness  
+- *JavaScript* – core logic for age calculation
 
 ---
 
-📸 Screenshot (Coming Soon)
+## 📸 Screenshots
 
-A screenshot of the app interface will be added shortly.
+Here’s a quick look at how it works and how the code is structured:
+
+### ✅ Main Interface
+![Age Calculator App](age-calculator.png)
+
+### ✅ JavaScript Logic (script.js)
+![JavaScript File](script-js.png)
+
+### ✅ Styling (style.css)
+![CSS File](style-css.png)
+
+---
+
+## 📁 Folder Structure
+
+📦 age-calculator-app/ ├── index.html        # Main HTML structure ├── style.css         # All styles and layout ├── script.js         # JavaScript logic for age calculation └── README.md         # Project documentation
+
+---
+
+## 👩‍💻 About the Developer
+
+*Gloria Ejike*  
+AWS Certified Solutions Architect Associate  
+Frontend & Cloud Development Intern  
+📍 Nigeria  
+🔗 [GitHub: Gees-cloud](https://github.com/Gees-cloud)  
+🔗 [LinkedIn: ejikegloria]https://www.linkedin.com/in/ejike-gloria-045081234
+
+---
+
+## 🚀 How to Run Locally
+
+To run this project on your computer:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Gees-cloud/age-calculator-app.git
+
+2. Open the folder and double-click index.html
+
+
+3. That’s it! The app runs instantly in your browser
+
+
 
 
 ---
 
-👩‍💻 Author
+📌 Project Status
 
-Gloria Ejike
-AWS Certified Solutions Architect Associate
-Frontend & Cloud Development Intern
-GitHub: Gees-cloud
-LinkedIn: https://www.linkedin.com/in/ejike-gloria-045081234
+✅ Project completed
+📷 Screenshots added
+🌐 Public and visible on GitHub for learning and portfolio use
 
 
 ---
 
-📌 Status
+🙌 Acknowledgements
 
-✅ Completed — Open to improvements
-📂 Public Repository
-📅 Project Date: June 2025
-
-
----
-
-✨ Special Thanks
-
-Thanks to the CodeAlpha internship program for encouraging practical, hands-on web development projects that bridge learning with real implementation.
+Special thanks to CodeAlpha for the opportunity to build and showcase practical frontend projects. This app is part of my growing journey as a cloud-focused frontend developer.
