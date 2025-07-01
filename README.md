@@ -28,8 +28,8 @@ I wanted to build a project that’s not only simple but shows how much you can 
 
 ## 🛠 Technologies Used
 
-- HTML5 – page structure and form elements  
-- CSS3 – layout, styling, and responsiveness  
+- HTML5 – page structure and form elements
+- CSS3 – layout, styling, and responsiveness
 - JavaScript – core logic for age calculation
 
 ---
@@ -38,8 +38,11 @@ I wanted to build a project that’s not only simple but shows how much you can 
 
 Here are a few glimpses of the app in action:
 
-![App Interface Screenshot 1](assets/screenshot-desktop.png)
-![App Interface Screenshot 2](assets/screenshot-mobile.png)
+![Age Calculator App Interface](assets/Age-calculator.png)
+![Index HTML Preview](assets/index-preview.png)
+![JavaScript Code Snippet](assets/script-css-code.png)
+![CSS Code Snippet](assets/style-css-code.png)
+
 ---
 
 ## 📁 Folder Structure
@@ -54,10 +57,11 @@ Here are a few glimpses of the app in action:
 
 ## 👩‍💻 About the Developer
 
-Gloria Ejike AWS Certified Solutions Architect Associate  
-Frontend & Cloud Development Intern  
-📍 Nigeria  
-🔗 [GitHub: Gees-cloud](https://github.com/Gees-cloud)  
+Gloria Ejike
+AWS Certified Solutions Architect Associate
+Frontend & Cloud Development Intern
+📍 Nigeria
+🔗 [GitHub: Gees-cloud](https://github.com/Gees-cloud)
 🔗 [LinkedIn: Gloria Ejike](https://www.linkedin.com/in/ejike-gloria-045081234)
 
 ---
