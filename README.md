@@ -38,10 +38,10 @@ I wanted to build a project that’s not only simple but shows how much you can 
 
 Here are a few glimpses of the app in action:
 
-![Age Calculator App Interface](assets/Age-calculator.png)
-![Index HTML Preview](assets/index-preview.png)
-![JavaScript Code Snippet](assets/script-css-code.png)
-![CSS Code Snippet](assets/style-css-code.png)
+![Age Calculator App Interface](Age-calculator.png)
+![Index HTML Preview](index-preview.png)
+![JavaScript Code Snippet](script-css-code.png)
+![CSS Code Snippet](style-css-code.png)
 
 ---
 
